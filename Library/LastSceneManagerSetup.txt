@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Do_you_have_log.unity
+  isLoaded: 1
+  isActive: 1
